@@ -1,4 +1,4 @@
-Severity,Council_district,Hit_and_Run,Weather,Rain,Natural_Light,Junction Control,Road_ Classification,Vehicle_Movements,Type_of_Collision,No_of_Vehicles_Involved,No_of Casualties_Injured,Deaths
+Severity,Council_district,Hit_and_Run,Weather,Rain,Natural_Light,Junction_Control,Road_Classification,Vehicle_Movements,Type_of_Collision,No_of_Vehicles_Involved,No_of Casualties_Injured,Deaths
 3,ST,2,1,1,1,6,2,1,4,1,1,0
 3,N,2,3,2,2,6,2,1,4,1,1,0
 3,KT,2,3,2,3,6,2,2,2,2,1,0
